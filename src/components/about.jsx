@@ -37,7 +37,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I'm an ingenious Software Engineer in @Cointab Software Pvt. Ltd. "
+            "I'm an ingenious Software Engineer working in Cointab Software Pvt Ltd. "
         },
         {
           id: "second-p-about",
@@ -48,6 +48,11 @@ class About extends React.Component {
           id: "third-p-about",
           content:
             "Seeking to learn more tech stack and increase my knowledge to build highly scalable frontend and backed architectures."
+        },
+        {
+          id: "forth-p-about",
+          content:
+            "I'm professional with bachelor degree focused on computer engineering from Mumbai University."
         }
       ]
     };
