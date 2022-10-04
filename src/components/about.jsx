@@ -37,17 +37,17 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "This is Prathviraj Thokal and I am a Full Stack Engineer. I live in Mumbai and I've completed my bachelor degree (B.E) in computer from University Of Mumbai."
+            "I'm an ingenious Software Engineer in @Cointab Software Pvt. Ltd. "
         },
         {
           id: "second-p-about",
           content:
-            "Currently I am working as a Full Stack Engineer in Yappes Technologies Bangalore."
+            "I'm experienced with about 2 years for building web applications by different tech stack such as Javascript, Node js, React.js, Redux, AngularJS, Ant Design, Material UI, Bootstrap and css. Also having the experience in teaching programming languages to the engineering and diploma students"
         },
         {
           id: "third-p-about",
           content:
-            "I am quick learner and self motivated engineer with positive attitude towards my career."
+            "Seeking to learn more tech stack and increase my knowledge to build highly scalable frontend and backed architectures."
         }
       ]
     };
