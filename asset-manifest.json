@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.722e3f92.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.bc98063d.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.bc98063d.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.b1883aef.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.b1883aef.js.map",
+    "static/css/2.e1c189f2.chunk.css": "/my-portfolio/static/css/2.e1c189f2.chunk.css",
+    "static/js/2.0b1580a6.chunk.js": "/my-portfolio/static/js/2.0b1580a6.chunk.js",
+    "static/js/2.0b1580a6.chunk.js.map": "/my-portfolio/static/js/2.0b1580a6.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/css/2.e1c189f2.chunk.css.map": "/my-portfolio/static/css/2.e1c189f2.chunk.css.map",
+    "static/css/main.722e3f92.chunk.css.map": "/my-portfolio/static/css/main.722e3f92.chunk.css.map",
+    "static/js/2.0b1580a6.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.0b1580a6.chunk.js.LICENSE.txt",
+    "static/media/earth.a08c82a6.jpg": "/my-portfolio/static/media/earth.a08c82a6.jpg",
+    "static/media/font-awesome.css": "/my-portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/image1.e5cc5381.jpg": "/my-portfolio/static/media/image1.e5cc5381.jpg",
+    "static/media/image2.918e02fd.jpg": "/my-portfolio/static/media/image2.918e02fd.jpg",
+    "static/media/image3.dab09f29.jpg": "/my-portfolio/static/media/image3.dab09f29.jpg",
+    "static/media/image4.0208209b.jpg": "/my-portfolio/static/media/image4.0208209b.jpg",
+    "static/media/image5.064bdceb.jpg": "/my-portfolio/static/media/image5.064bdceb.jpg",
+    "static/media/image6.d815fbd7.jpg": "/my-portfolio/static/media/image6.d815fbd7.jpg",
+    "static/media/ionicons.css": "/my-portfolio/static/media/ionicons.b45d332f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1883aef.js",
+    "static/css/2.e1c189f2.chunk.css",
+    "static/js/2.0b1580a6.chunk.js",
+    "static/css/main.722e3f92.chunk.css",
+    "static/js/main.bc98063d.chunk.js"
+  ]
+}
